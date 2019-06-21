@@ -1,0 +1,6 @@
+owner=555504294145687564
+prefix=i
+game=Break | iplay
+stayinchannel=true
+songinstatus=false
+token=NTkxNzUwMDYzMTAxODM3MzIz.XQ1Umw.bI6nJAsh81yEb-QppvF-oLbyNAk
